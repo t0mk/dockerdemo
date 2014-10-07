@@ -1,0 +1,11 @@
+---
+galaxy_info:
+  author: Tomas Karasek
+  description: Demo role setting up a couple of Docker containers
+  license: GPLv2
+  min_ansible_version: 1.5
+  platforms:
+  - name: Ubuntu
+    versions:
+    - trusty
+dependencies: []
