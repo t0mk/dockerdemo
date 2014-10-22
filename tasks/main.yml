@@ -21,3 +21,6 @@
     image: training/webapp
     command: python app.py
     ports: 8003:5000
+
+- debug:
+    msg: "Three containers with training Flask app on 8001,8002,8003"
